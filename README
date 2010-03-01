@@ -1,0 +1,68 @@
+Honstats by Kevin Darlington (http://outroot.com)
+
+Usage: python honstats.py <nick>
+
+Example:
+
+python honstats.py Hello
+
+----------------------------------------
+Stats for "Hello"
+----------------------------------------
+acc_amm_solo_rating       : 1500
+acc_exp                   : 1594252
+create_date               : 07/14/2009
+acc_amm_team_rating       : 1500
+acc_avg_score             : 0.00
+acc_razed                 : 144
+acc_amm_team_count        : 0
+acc_secs                  : 216669
+acc_wards                 : 0
+acc_pub_skill             : 1648
+acc_herokillsgold         : 127540
+acc_gold_spent            : 841903
+acc_secs_dead             : 35883
+acc_concedevotes          : 12
+acc_kicked                : 1
+acc_herodmg               : 1117644
+acc_amm_solo_count        : 0
+acc_goldlost2death        : 172530
+acc_losses                : 46
+AREM                      : 0
+acc_bdmg                  : 144535
+acc_consumables           : 0
+acc_gold                  : 707603
+last_login                : 02/26/2010 14:08:15
+acc_teamcreepgold         : 320147
+acc_neutralcreepdmg       : 1442700
+acc_teamcreepexp          : 731795
+APEM                      : 0
+acc_wins                  : 52
+acc_exp_denied            : 40227
+acc_em_played             : 29
+account_id                : 25721
+maxXP                     : 1741931
+minXP                     : 1354836
+acc_bgold                 : 170321
+acc_heroexp               : 698443
+acc_denies                : 950
+AP                        : 0
+acc_bdmgexp               : 0
+AR                        : 0
+acc_neutralcreepexp       : 161479
+acc_deaths                : 501
+acc_teamcreepdmg          : 3429839
+nickname                  : Hello
+acc_teamcreepkills        : 8464
+last_activity             : 02/26/2010 16:57:44
+acc_heroassists           : 773
+acc_neutralcreepgold      : 85772
+acc_concedes              : 28
+level                     : 8
+acc_herokills             : 464
+acc_buybacks              : 21
+acc_neutralcreepkills     : 1955
+acc_actions               : 371726
+acc_pub_count             : 98
+acc_discos                : 3
+acc_games_played          : 98
